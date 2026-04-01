@@ -1,0 +1,188 @@
+COUNTRY_CODE,REGION_CODE,COUNTRY_NAME,PROV_ID
+1,5,Afghanistan,2
+2,2,Albania,2
+3,3,Algeria,2
+4,2,Andorra,2
+5,3,Angola,2
+6,1,Antigua and Barbuda,2
+7,1,Argentina,2
+8,2,Armenia,2
+9,4,Australia,2
+10,2,Austria,2
+11,2,Azerbaijan,2
+12,1,Bahamas,2
+13,5,Bahrain,2
+14,6,Bangladesh,2
+15,1,Barbados,2
+16,2,Belarus,2
+17,2,Belgium,2
+18,1,Belize,2
+19,3,Benin,2
+20,6,Bhutan,2
+21,1,Bolivia,2
+22,2,Bosnia and Herzegovina,2
+23,3,Botswana,2
+24,1,Brazil,2
+25,4,Brunei,2
+26,2,Bulgaria,2
+27,3,Burkina Faso,2
+28,6,Burma,2
+29,3,Burundi,2
+30,3,Cabo Verde,2
+31,4,Cambodia,2
+32,3,Cameroon,2
+33,1,Canada,2
+34,3,Central African Republic,2
+35,3,Chad,2
+36,1,Chile,2
+37,4,China,2
+38,1,Colombia,2
+39,3,Comoros,2
+40,3,Congo (Brazzaville),2
+41,3,Congo (Kinshasa),2
+42,1,Costa Rica,2
+43,3,Cote d'Ivoire,2
+44,2,Croatia,2
+45,1,Cuba,2
+46,2,Cyprus,2
+47,2,Czechia,2
+48,2,Denmark,2
+49,5,Djibouti,2
+50,1,Dominica,2
+51,1,Dominican Republic,2
+52,1,Ecuador,2
+53,5,Egypt,2
+54,1,El Salvador,2
+55,3,Equatorial Guinea,2
+56,3,Eritrea,2
+57,2,Estonia,2
+58,3,Eswatini,2
+59,3,Ethiopia,2
+60,4,Fiji,2
+61,2,Finland,2
+62,2,France,2
+63,3,Gabon,2
+64,3,Gambia,2
+65,2,Georgia,2
+66,2,Germany,2
+67,3,Ghana,2
+68,2,Greece,2
+69,2,Greenland,2
+70,1,Grenada,2
+71,1,Guatemala,2
+72,3,Guinea,2
+73,3,Guinea-Bissau,2
+74,1,Guyana,2
+75,1,Haiti,2
+76,2,Holy See,2
+77,1,Honduras,2
+78,2,Hungary,2
+79,2,Iceland,2
+80,6,India,2
+81,6,Indonesia,2
+82,5,Iran,2
+83,5,Iraq,2
+84,2,Ireland,2
+85,2,Israel,2
+86,2,Italy,2
+87,1,Jamaica,2
+88,4,Japan,2
+89,5,Jordan,2
+90,2,Kazakhstan,2
+91,3,Kenya,2
+92,2,Kosovo,2
+93,5,Kuwait,2
+94,2,Kyrgyzstan,2
+95,4,Laos,2
+96,2,Latvia,2
+97,5,Lebanon,2
+98,3,Lesotho,2
+99,3,Liberia,2
+100,5,Libya,2
+101,2,Liechtenstein,2
+102,2,Lithuania,2
+103,2,Luxembourg,2
+104,3,Madagascar,2
+105,3,Malawi,2
+106,4,Malaysia,2
+107,6,Maldives,2
+108,3,Mali,2
+109,2,Malta,2
+110,3,Mauritania,2
+111,3,Mauritius,2
+112,1,Mexico,2
+113,2,Moldova,2
+114,2,Monaco,2
+115,4,Mongolia,2
+116,2,Montenegro,2
+117,5,Morocco,2
+118,3,Mozambique,2
+119,3,Namibia,2
+120,6,Nepal,2
+121,2,Netherlands,2
+122,4,New Zealand,2
+123,1,Nicaragua,2
+124,3,Niger,2
+125,3,Nigeria,2
+126,2,North Macedonia,2
+127,2,Norway,2
+128,5,Oman,2
+129,5,Pakistan,2
+130,1,Panama,2
+131,4,Papua New Guinea,2
+132,1,Paraguay,2
+133,1,Peru,2
+134,4,Philippines,2
+135,2,Poland,2
+136,2,Portugal,2
+137,5,Qatar,2
+138,2,Romania,2
+139,2,Russia,2
+140,3,Rwanda,2
+141,1,Saint Kitts and Nevis,2
+142,1,Saint Lucia,2
+143,1,Saint Vincent and the Grenadines,2
+144,2,San Marino,2
+145,3,Sao Tome and Principe,2
+146,5,Saudi Arabia,2
+147,3,Senegal,2
+148,2,Serbia,2
+149,3,Seychelles,2
+150,3,Sierra Leone,2
+151,4,Singapore,2
+152,2,Slovakia,2
+153,2,Slovenia,2
+154,5,Somalia,2
+155,3,South Africa,2
+156,4,South Korea,2
+157,3,South Sudan,2
+158,2,Spain,2
+159,6,Sri Lanka,2
+160,5,Sudan,2
+161,1,Suriname,2
+162,2,Sweden,2
+163,2,Switzerland,2
+164,5,Syria,2
+165,4,Taiwan*,2
+166,2,Tajikistan,2
+167,3,Tanzania,2
+168,6,Thailand,2
+169,6,Timor-Leste,2
+170,3,Togo,2
+171,1,Trinidad and Tobago,2
+172,5,Tunisia,2
+173,2,Turkey,2
+174,1,US,1
+175,3,Uganda,3
+176,2,Ukraine,3
+177,5,United Arab Emirates,3
+178,2,United Kingdom,3
+179,1,Uruguay,3
+180,2,Uzbekistan,3
+181,1,Venezuela,3
+182,4,Vietnam,3
+183,5,West Bank and Gaza,3
+184,3,Western Sahara,3
+185,5,Yemen,3
+186,3,Zambia,3
+187,3,Zimbabwe,3
